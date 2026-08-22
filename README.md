@@ -10,7 +10,7 @@
 
 ## English Version
 
-More information at [Minibots]().
+More information at [Minibots](https://minibots.wordpress.com/2026/08/21/msx-dos-con-olimex-agonlight2/).
 
 High-Level Emulator (HLE) developed entirely in eZ80 assembly for **Agon Light**. It allows running the original MSX-DOS 1 command interpreter (`COMMAND.COM`) and classic MSX-DOS and CP/M 2.2 applications natively, translating system requests to the host operating system (Agon MOS).
 
@@ -51,7 +51,7 @@ For the compilation:
 For the deployment:
 
 1. Create the directories `/MSXDOS/A` and `/MSXDOS/B` on your Agon Light's microSD card.
-2. Copy the original `COMMAND.COM` binary (version 1.x) and your `.COM` applications into `/MSXDOS/A`.
+2. Copy the original `COMMAND.COM` binary (version 1.x) into `/` and your `.COM` applications into `/MSXDOS/A`.
 3. Run the emulator from the Agon MOS terminal.
 
 ### Requirements
@@ -70,7 +70,7 @@ This project is licensed under the **GNU General Public License v2.0**. See the 
 
 ## Versión en Español
 
-Más información en [Minibots]().
+Más información en [Minibots](https://minibots.wordpress.com/2026/08/21/msx-dos-con-olimex-agonlight2/).
 
 Emulador de alto nivel (HLE) desarrollado íntegramente en ensamblador eZ80 para **Agon Light**. Permite ejecutar el intérprete de comandos original de MSX-DOS 1 (`COMMAND.COM`) y aplicaciones clásicas de MSX-DOS y CP/M 2.2 de forma nativa, traduciendo las peticiones del sistema al sistema operativo anfitrión (Agon MOS).
 
@@ -112,7 +112,7 @@ Para el despliegue:
 
 1. Crea los directorios `/MSXDOS/A` y `/MSXDOS/B` en la tarjeta microSD de tu Agon Light.
 
-2. Copia el binario original de `COMMAND.COM` (versión 1.x) y tus aplicaciones `.COM` dentro de `/MSXDOS/A`.
+2. Copia el binario original de `COMMAND.COM` (versión 1.x) a `/` y las aplicaciones `.COM` dentro de `/MSXDOS/A`.
 
 3. Ejecuta el emulador desde la terminal del Agon MOS.
 
